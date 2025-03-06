@@ -1,4 +1,4 @@
-## 👋 Hi, I'm XUANXUQAQ  
+## 👋 Hi, I'm XUANXU  
 
 🚀 **Full-Stack Developer | Open Source Enthusiast | Performance Optimization Geek**  
 
