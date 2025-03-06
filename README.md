@@ -6,7 +6,7 @@ I am a passionate developer dedicated to building high-performance and user-frie
 
 ### 📌 About Me  
 - 🛠️ **Author of [File-Engine](https://github.com/XUANXUQAQ/File-Engine)** — A powerful file search tool designed for efficiency and speed.  
-- 🚀 **New Project: [Aiverything](https://meta.appinn.net/t/topic/66229)** — A GPU-accelerated file search & launcher tool with an improved UI, stronger search performance, and more features.  
+- 🚀 **New Project: [Aiverything | Launcher to your everything.](https://aiverything.me/)** — [Aiverything](https://meta.appinn.net/t/topic/66229). A GPU-accelerated file search & launcher tool with an improved UI, stronger search performance, and more features.  
   ![Aiverything-LOGO](https://raw.githubusercontent.com/panwangwin/aiverything-official-forum/refs/heads/main/logo-2.png)  
   [![Aiverything](https://img.shields.io/badge/Try-Aiverything-blue?style=for-the-badge)](https://github.com/panwangwin/aiverything-official-forum)  
 - 📖 Sharing my knowledge and insights on my blog: [xuanxu23333.github.io](https://xuanxu23333.github.io/)  
