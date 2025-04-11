@@ -9,7 +9,7 @@ I am a passionate developer dedicated to building high-performance and user-frie
 - 🚀 **New Project: [Aiverything | Launcher to your everything.](https://aiverything.me/)** — [Aiverything](https://meta.appinn.net/t/topic/66229). A GPU-accelerated file search & launcher tool with an improved UI, stronger search performance, and more features.  
   ![Aiverything-LOGO](https://raw.githubusercontent.com/panwangwin/aiverything-official-forum/refs/heads/main/logo-2.png)  
   [![Aiverything](https://img.shields.io/badge/Try-Aiverything-blue?style=for-the-badge)](https://github.com/panwangwin/aiverything-official-forum)  
-- 📖 Sharing my knowledge and insights on my blog: [xuanxu23333.github.io](https://xuanxu23333.github.io/)  
+- 📖 Sharing my knowledge and insights on my blog: [XuanXu 的个人主页 - 动态 - 掘金](https://juejin.cn/user/2513958419314580)  
 
 ### 🏗️ Tech Stack  
 **Backend:**  
